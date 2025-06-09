@@ -1,0 +1,14 @@
+
+        h1 {
+            color: rgb(0, 255, 106); /* Колір тексту */
+            font-size: clamp(50px, 50%, 100px); /* Розмір шрифту */
+            font-family:Verdana, sans-serif;
+             text-align: center;
+        }
+   
+        h2 {
+            color: black(255, 0, 234); /* Колір тексту */
+            font-size: 40px; /* Розмір шрифту */
+            font-family:Verdana, sans-serif;
+             text-align: center;
+             }
